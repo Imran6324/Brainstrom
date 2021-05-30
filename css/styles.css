@@ -126,6 +126,12 @@ hr {
 {
   color: #11999E;
 }
+.code-img:hover {
+  background-color: #11999E;
+}
+.chilli-img:hover{
+  background-color: #11999E;
+}
 .btn {
   background: #3D71F6;
   background-image: -webkit-linear-gradient(top, #3D71F6, #37D01E);
